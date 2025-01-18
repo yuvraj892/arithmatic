@@ -1,4 +1,4 @@
-class calculator{
+public xclass calculator{
 	class main{
 
 
