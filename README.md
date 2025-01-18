@@ -7,3 +7,8 @@ made a addition feature in calculator.txt file and merged it
 
 Task 3
 made a subtraction feature in calculator.txt file and merged it
+
+Task 4
+made a multiplication feature in calculator.txt file and merged it in feature branch
+
+
