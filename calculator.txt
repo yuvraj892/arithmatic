@@ -9,6 +9,8 @@ public class calculator{
 	return a-b;
 }
 
-
+	public double multi(double a, double b){
+	return a*b;
+}
 }
 }
